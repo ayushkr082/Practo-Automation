@@ -1,245 +1,998 @@
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-07-24 12:25:29 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\2403732\AppData\Local\Temp\testng-eclipse--684449531\testng-customsuite.xml
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:14:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\AppData\Local\Temp\testng-eclipse--1814181286\testng-customsuite.xml
 
-2025-07-24 12:25:29 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
-2025-07-24 12:25:46 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\2403732\OneDrive - Cognizant\Desktop\FindingHospitals\testRunner.xml
+2025-07-30 09:14:39 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:19:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\AppData\Local\Temp\testng-eclipse-1517585490\testng-customsuite.xml
 
-2025-07-24 12:26:15 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\2403732\OneDrive - Cognizant\Desktop\FindingHospitals\testRunner.xml
+2025-07-30 09:19:21 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-30 09:20:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\eclipse-workspace\FindingHospitals\testng.xml
 
-2025-07-24 12:26:43 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\2403732\OneDrive - Cognizant\Desktop\FindingHospitals\testRunner.xml
+2025-07-30 09:20:57 INFO  TC001_HospitalsAvailabilityTest:17 - ****Starting TestCase*****
+2025-07-30 09:20:57 INFO  TC001_HospitalsAvailabilityTest:22 - ****Entering Search City*****
+2025-07-30 09:20:57 ERROR TC001_HospitalsAvailabilityTest:44 - Test Failed
+org.openqa.selenium.NoSuchSessionException: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [003127c068443a6961d0a480fa602c0d, findElement {value=//input[@placeholder='Search location'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2403728\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63685}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63685/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 003127c068443a6961d0a480fa602c0d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.setSearchCity(HomePage.java:50) ~[test-classes/:?]
+	at testCases.TC001_HospitalsAvailabilityTest.hospitalsSearch(TC001_HospitalsAvailabilityTest.java:23) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-07-30 09:21:50 INFO  TC001_HospitalsAvailabilityTest:17 - ****Starting TestCase*****
+2025-07-30 09:21:50 INFO  TC001_HospitalsAvailabilityTest:22 - ****Entering Search City*****
+2025-07-30 09:21:55 INFO  TC001_HospitalsAvailabilityTest:25 - ****Entering Search Value*****
+2025-07-30 09:22:03 INFO  TC001_HospitalsAvailabilityTest:28 - ****Getting Total No. of Results*****
+2025-07-30 09:22:03 INFO  TC001_HospitalsAvailabilityTest:31 - ****Getting Name of Hospitals based on criteria*****
+2025-07-30 09:22:04 INFO  TC001_HospitalsAvailabilityTest:34 - ****Writing Name of Hospitals to Excel****
+2025-07-30 09:22:05 INFO  TC001_HospitalsAvailabilityTest:48 - ****Finished Searching Hospitals TestCase*****
+2025-07-30 09:22:19 INFO  TC002_NearbyDoctors:21 - ****Starting Search Nearby Doctors TestCase*****
+2025-07-30 09:22:28 INFO  TC002_NearbyDoctors:27 - ****Selecting Location*****
+2025-07-30 09:22:29 INFO  TC002_NearbyDoctors:29 - ****Selecting Doctor Type*****
+2025-07-30 09:22:37 INFO  TC002_NearbyDoctors:33 - ****Selecting Gender*****
+2025-07-30 09:22:50 INFO  TC002_NearbyDoctors:35 - ****Selecting Experience*****
+2025-07-30 09:22:54 INFO  TC002_NearbyDoctors:37 - ****Sorting names based on fees*****
+2025-07-30 09:23:01 ERROR TC002_NearbyDoctors:51 - Test Failed
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0dbced866b6c3aec472ead79ce58eff1, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2403728\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64093}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64093/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0dbced866b6c3aec472ead79ce58eff1
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObjects.FetchDoctorsPage.sortFeesAscending(FetchDoctorsPage.java:57) ~[test-classes/:?]
+	at testCases.TC002_NearbyDoctors.findDoctorsTest(TC002_NearbyDoctors.java:38) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+Caused by: java.io.UncheckedIOException: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:500) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.32.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:966) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:459) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.32.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at java.net.http/jdk.internal.net.http.common.Utils.wrapWithExtraDetail(Utils.java:388) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.Http1Response$HeadersReader.onReadError(Http1Response.java:590) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver.checkForErrors(Http1AsyncReceiver.java:302) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver.flush(Http1AsyncReceiver.java:268) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:182) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207) ~[java.net.http:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1469) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1414) ~[java.net.http:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1414) ~[java.net.http:?]
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:23:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\AppData\Local\Temp\testng-eclipse-2050261858\testng-customsuite.xml
 
-2025-07-24 12:27:17 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\2403732\OneDrive - Cognizant\Desktop\FindingHospitals\testRunner.xml
+2025-07-30 09:23:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:25:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\AppData\Local\Temp\testng-eclipse--702727081\testng-customsuite.xml
 
-2025-07-24 12:33:03 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\2403732\OneDrive - Cognizant\Desktop\FindingHospitals\testRunner.xml
+2025-07-30 09:25:23 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-30 09:27:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\eclipse-workspace\FindingHospitals\testRunner.xml
 
-2025-07-24 12:33:14 INFO  Hooks:26 - Navigating to Home Page
-2025-07-24 12:33:14 INFO  Hooks:33 - Loading hospital search data from Excel sheet: TC001
-2025-07-24 12:33:15 INFO  Hooks:41 - Loaded Data -> City: Bangalore, SearchPlace: Hospital, OpenTime: Open 24x7, Rating: 4.0
-2025-07-24 12:33:15 INFO  Hooks:47 - Entering City into Search: Bangalore
-2025-07-24 12:33:21 INFO  Hooks:53 - Entering SearchPlace into Search field: Hospital
-2025-07-24 12:33:28 INFO  Hooks:59 - Retrieving total number of hospital search results
-2025-07-24 12:33:28 INFO  Hooks:65 - Filtering hospital names based on OpenTime: Open 24x7 and Rating >= 4.0
-2025-07-24 12:33:29 INFO  Hooks:71 - Writing filtered hospital names to Excel sheet: TC001_Output
-2025-07-24 12:33:29 INFO  Hooks:76 - Writing Hospital Name to Excel: MIOT International Hospital
-2025-07-24 12:33:30 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Spectra Hospital
-2025-07-24 12:33:30 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Cradle
-2025-07-24 12:33:30 INFO  Hooks:76 - Writing Hospital Name to Excel: Cloudnine Hospital
-2025-07-24 12:33:30 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
-2025-07-24 12:33:30 INFO  Hooks:76 - Writing Hospital Name to Excel: Shadithya Hospital
-2025-07-24 12:33:30 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Spectra Hospitals
-2025-07-24 12:33:30 INFO  Hooks:76 - Writing Hospital Name to Excel: Promed Hospital
-2025-07-24 12:33:30 INFO  Hooks:81 - Finished writing all hospital names to Excel
-2025-07-24 12:33:42 INFO  Hooks:22 - Navigating to application URL...
-2025-07-24 12:33:47 INFO  Hooks:24 - User is on the home page.
-2025-07-24 12:33:47 INFO  Hooks:34 - Total rows in sheet 'TC002': 1
-2025-07-24 12:33:47 INFO  Hooks:40 - Searching for doctors in location: 'Bangalore' with type: 'Dermatologist'
-2025-07-24 12:34:20 INFO  Hooks:87 - Doctors found: 10
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Ambresh Badad
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shashi Kumar M
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Vinay Nagaraj
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. M.Jeethan
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Kiran K C
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. S C Rajendran
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Chandrashekara Aithal
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. J Prasad
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Revanth BN
-2025-07-24 12:34:21 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shaik Mohammed Obeidullah
-2025-07-24 12:34:21 INFO  Hooks:64 - All doctor names saved to sheet 'TC002_Output'
-2025-07-24 12:34:34 INFO  Hooks:16 - ****Clicking Instant Video Consultation*****
-2025-07-24 12:34:34 INFO  Hooks:25 - ****Scrolling*****
-2025-07-24 12:34:39 INFO  Hooks:28 - ****passing and getting specialities with price*****
-2025-07-24 12:34:53 INFO  Hooks:19 - ******Starting Login Authentication Test Case*******
-2025-07-24 12:34:53 INFO  Hooks:30 - *****Clicking Login on Home Page******
-2025-07-24 12:34:54 INFO  Hooks:34 - *****Entering username and password and clicking login******
-2025-07-24 12:34:58 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
-2025-07-24 12:34:58 INFO  Hooks:30 - *****Clicking Login on Home Page******
-2025-07-24 12:34:59 INFO  Hooks:34 - *****Entering username and password and clicking login******
-2025-07-24 12:35:01 INFO  Hooks:43 - *****Checking if Profile Info is displayed after successful login******
-2025-07-24 12:35:02 INFO  Hooks:45 - *****Logging out******
-2025-07-24 12:35:03 INFO  Hooks:30 - *****Clicking Login on Home Page******
-2025-07-24 12:35:04 INFO  Hooks:34 - *****Entering username and password and clicking login******
-2025-07-24 12:35:04 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
-2025-07-24 12:35:05 INFO  Hooks:60 - ****Finished Login Authentication TestCase*****
-2025-07-24 12:35:16 INFO  Hooks:26 - Launching Home Page
-2025-07-24 12:35:16 INFO  Hooks:33 - Reading search term from Excel sheet: TC005
-2025-07-24 12:35:16 INFO  Hooks:37 - Loaded search term: mental heath
-2025-07-24 12:35:16 INFO  Hooks:43 - Clicked on 'Read Articles' link
-2025-07-24 12:35:16 INFO  Hooks:55 - Switched to new window for article search
-2025-07-24 12:35:28 INFO  Hooks:61 - Performed search for: mental heath
-2025-07-24 12:35:28 INFO  Hooks:68 - Extracted 10 article titles and author pairs
-2025-07-24 12:35:28 INFO  Hooks:79 - Written to Excel: Mental Health | Dr.Surabhi Jain, Dietitian/Nutritionist
-2025-07-24 12:35:28 INFO  Hooks:79 - Written to Excel: 7 Simple Yet Effective Ways to Build Your Mental Strength | Ms.Seema Agarwal, Psychologist
-2025-07-24 12:35:29 INFO  Hooks:79 - Written to Excel: World Mental Health Day 2016 | Dr.Sonia Malhotra, Psychiatrist
-2025-07-24 12:35:29 INFO  Hooks:79 - Written to Excel: Importance of Mental health | Ms.Seema Agarwal, Psychologist
-2025-07-24 12:35:29 INFO  Hooks:79 - Written to Excel: Mental Disorders: Stigma or Something else? | Dr.D. S. Poonia, Psychiatrist
-2025-07-24 12:35:29 INFO  Hooks:79 - Written to Excel: Dealing with mental stress at the workplace | Dr.Ankita Mishra, Psychiatrist
-2025-07-24 12:35:29 INFO  Hooks:79 - Written to Excel: How to Deal With Depression/mental Illnesses? | Dr.Neelam Nath Bhatia, General Physician
-2025-07-24 12:35:29 INFO  Hooks:79 - Written to Excel: 5 Ways to Good Mental Health | Dr.Pankaj B Borade, Psychiatrist
-2025-07-24 12:35:29 INFO  Hooks:79 - Written to Excel: 10 Easy & Effective Ways to Improve Mental Health | Ms.Vijal Sejpal, Psychologist
-2025-07-24 12:35:30 INFO  Hooks:79 - Written to Excel: Essential Ways to Enhance Adolescent Mental Health | Dr.Ashima Srivastava(PhD), Psychologist
-2025-07-24 12:35:30 INFO  Hooks:82 - Data writing complete for TC005_Output
-2025-07-24 12:35:42 INFO  Hooks:16 - Scrolling to footer section
-2025-07-24 12:36:23 INFO  Hooks:26 - Navigating to Home Page
-2025-07-24 12:36:23 INFO  Hooks:26 - Clicking 'For Corporates' link
-2025-07-24 12:36:23 INFO  Hooks:32 - Clicking 'For Health and Wellness' link
-2025-07-24 12:36:28 INFO  Hooks:38 - Waiting for form to load...
-2025-07-24 12:36:30 INFO  Hooks:42 - Form loaded and ready
-2025-07-24 12:36:30 INFO  Hooks:48 - Filling form using XML data...
-2025-07-24 12:36:33 INFO  Hooks:50 - Entered Name
-2025-07-24 12:36:36 INFO  Hooks:53 - Entered Organization
-2025-07-24 12:36:40 INFO  Hooks:56 - Entered Contact
-2025-07-24 12:36:43 INFO  Hooks:59 - Entered Email
-2025-07-24 12:36:43 INFO  Hooks:62 - Selected Organization Size
-2025-07-24 12:36:43 INFO  Hooks:65 - Selected Interest
-2025-07-24 12:36:43 INFO  Hooks:70 - Submitting demo request
-2025-07-24 12:36:45 INFO  Hooks:76 - Verifying CAPTCHA screen is displayed
-2025-07-24 12:36:45 INFO  Hooks:83 - Capturing screenshot: CaptchaAfterSubmit
-2025-07-24 12:36:58 INFO  Hooks:27 - Starting login process...
-2025-07-24 12:37:10 INFO  Hooks:38 - Login successful.
-2025-07-24 12:37:10 INFO  Hooks:50 - Clicked user dropdown.
-2025-07-24 12:37:13 INFO  Hooks:53 - Navigated to My Tests.
-2025-07-24 12:37:17 INFO  Hooks:59 - Clicked Book Tests.
-2025-07-24 12:37:18 INFO  Hooks:62 - Fetched 8 TopCities.
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Bangalore
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Delhi
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Mumbai
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Chennai
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Hyderabad
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Kolkata
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Pune
-2025-07-24 12:37:18 INFO  Hooks:80 - Written TopCity to Excel: Ahmedabad
-2025-07-24 12:37:18 INFO  Hooks:85 - All TopCities written to Excel successfully.
-2025-07-24 12:37:22 WARN  Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2025-07-24 12:37:33 INFO  Hooks:26 - Navigating to Home Page
-2025-07-24 12:37:33 INFO  Hooks:33 - Loading hospital search data from Excel sheet: TC001
-2025-07-24 12:37:33 INFO  Hooks:41 - Loaded Data -> City: Bangalore, SearchPlace: Hospital, OpenTime: Open 24x7, Rating: 4.0
-2025-07-24 12:37:33 INFO  Hooks:47 - Entering City into Search: Bangalore
-2025-07-24 12:37:38 INFO  Hooks:53 - Entering SearchPlace into Search field: Hospital
-2025-07-24 12:37:45 INFO  Hooks:59 - Retrieving total number of hospital search results
-2025-07-24 12:37:45 INFO  Hooks:65 - Filtering hospital names based on OpenTime: Open 24x7 and Rating >= 4.0
-2025-07-24 12:37:46 INFO  Hooks:71 - Writing filtered hospital names to Excel sheet: TC001_Output
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospitals
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Koshys Hospital
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Spectra Hospitals
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Trilife Hospital
-2025-07-24 12:37:46 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Cradle & Children’s Hospital
-2025-07-24 12:37:46 INFO  Hooks:81 - Finished writing all hospital names to Excel
-2025-07-24 12:37:59 INFO  Hooks:22 - Navigating to application URL...
-2025-07-24 12:38:04 INFO  Hooks:24 - User is on the home page.
-2025-07-24 12:38:04 INFO  Hooks:34 - Total rows in sheet 'TC002': 1
-2025-07-24 12:38:04 INFO  Hooks:40 - Searching for doctors in location: 'Bangalore' with type: 'Dermatologist'
-2025-07-24 12:38:37 INFO  Hooks:87 - Doctors found: 10
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Ambresh Badad
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shashi Kumar M
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Vinay Nagaraj
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. M.Jeethan
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Kiran K C
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. S C Rajendran
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Chandrashekara Aithal
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. J Prasad
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Revanth BN
-2025-07-24 12:38:37 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shaik Mohammed Obeidullah
-2025-07-24 12:38:37 INFO  Hooks:64 - All doctor names saved to sheet 'TC002_Output'
-2025-07-24 12:38:50 INFO  Hooks:16 - ****Clicking Instant Video Consultation*****
-2025-07-24 12:38:50 INFO  Hooks:25 - ****Scrolling*****
-2025-07-24 12:38:54 INFO  Hooks:28 - ****passing and getting specialities with price*****
-2025-07-24 12:39:09 INFO  Hooks:19 - ******Starting Login Authentication Test Case*******
-2025-07-24 12:39:09 INFO  Hooks:30 - *****Clicking Login on Home Page******
-2025-07-24 12:39:09 INFO  Hooks:34 - *****Entering username and password and clicking login******
-2025-07-24 12:39:13 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
-2025-07-24 12:39:14 INFO  Hooks:30 - *****Clicking Login on Home Page******
-2025-07-24 12:39:15 INFO  Hooks:34 - *****Entering username and password and clicking login******
-2025-07-24 12:39:17 INFO  Hooks:43 - *****Checking if Profile Info is displayed after successful login******
-2025-07-24 12:39:17 INFO  Hooks:45 - *****Logging out******
-2025-07-24 12:39:18 INFO  Hooks:30 - *****Clicking Login on Home Page******
-2025-07-24 12:39:19 INFO  Hooks:34 - *****Entering username and password and clicking login******
-2025-07-24 12:39:20 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
-2025-07-24 12:39:20 INFO  Hooks:60 - ****Finished Login Authentication TestCase*****
-2025-07-24 12:39:32 INFO  Hooks:26 - Launching Home Page
-2025-07-24 12:39:32 INFO  Hooks:33 - Reading search term from Excel sheet: TC005
-2025-07-24 12:39:32 INFO  Hooks:37 - Loaded search term: mental heath
-2025-07-24 12:39:32 INFO  Hooks:43 - Clicked on 'Read Articles' link
-2025-07-24 12:39:32 INFO  Hooks:55 - Switched to new window for article search
-2025-07-24 12:39:44 INFO  Hooks:61 - Performed search for: mental heath
-2025-07-24 12:39:44 INFO  Hooks:68 - Extracted 10 article titles and author pairs
-2025-07-24 12:39:44 INFO  Hooks:79 - Written to Excel: Mental Health | Dr.Surabhi Jain, Dietitian/Nutritionist
-2025-07-24 12:39:44 INFO  Hooks:79 - Written to Excel: 7 Simple Yet Effective Ways to Build Your Mental Strength | Ms.Seema Agarwal, Psychologist
-2025-07-24 12:39:44 INFO  Hooks:79 - Written to Excel: World Mental Health Day 2016 | Dr.Sonia Malhotra, Psychiatrist
-2025-07-24 12:39:44 INFO  Hooks:79 - Written to Excel: Importance of Mental health | Ms.Seema Agarwal, Psychologist
-2025-07-24 12:39:45 INFO  Hooks:79 - Written to Excel: Mental Disorders: Stigma or Something else? | Dr.D. S. Poonia, Psychiatrist
-2025-07-24 12:39:45 INFO  Hooks:79 - Written to Excel: Dealing with mental stress at the workplace | Dr.Ankita Mishra, Psychiatrist
-2025-07-24 12:39:45 INFO  Hooks:79 - Written to Excel: How to Deal With Depression/mental Illnesses? | Dr.Neelam Nath Bhatia, General Physician
-2025-07-24 12:39:45 INFO  Hooks:79 - Written to Excel: 5 Ways to Good Mental Health | Dr.Pankaj B Borade, Psychiatrist
-2025-07-24 12:39:45 INFO  Hooks:79 - Written to Excel: 10 Easy & Effective Ways to Improve Mental Health | Ms.Vijal Sejpal, Psychologist
-2025-07-24 12:39:45 INFO  Hooks:79 - Written to Excel: Essential Ways to Enhance Adolescent Mental Health | Dr.Ashima Srivastava(PhD), Psychologist
-2025-07-24 12:39:45 INFO  Hooks:82 - Data writing complete for TC005_Output
-2025-07-24 12:40:00 INFO  Hooks:16 - Scrolling to footer section
-2025-07-24 12:40:41 INFO  Hooks:26 - Navigating to Home Page
-2025-07-24 12:40:41 INFO  Hooks:26 - Clicking 'For Corporates' link
-2025-07-24 12:40:41 INFO  Hooks:32 - Clicking 'For Health and Wellness' link
-2025-07-24 12:40:46 INFO  Hooks:38 - Waiting for form to load...
-2025-07-24 12:40:48 INFO  Hooks:42 - Form loaded and ready
-2025-07-24 12:40:48 INFO  Hooks:48 - Filling form using XML data...
-2025-07-24 12:40:51 INFO  Hooks:50 - Entered Name
-2025-07-24 12:40:54 INFO  Hooks:53 - Entered Organization
-2025-07-24 12:40:57 INFO  Hooks:56 - Entered Contact
-2025-07-24 12:41:01 INFO  Hooks:59 - Entered Email
-2025-07-24 12:41:01 INFO  Hooks:62 - Selected Organization Size
-2025-07-24 12:41:01 INFO  Hooks:65 - Selected Interest
-2025-07-24 12:41:01 INFO  Hooks:70 - Submitting demo request
-2025-07-24 12:41:03 INFO  Hooks:76 - Verifying CAPTCHA screen is displayed
-2025-07-24 12:41:03 INFO  Hooks:83 - Capturing screenshot: CaptchaAfterSubmit
-2025-07-24 12:41:17 INFO  Hooks:27 - Starting login process...
-2025-07-24 12:41:26 INFO  Hooks:38 - Login successful.
-2025-07-24 12:41:26 INFO  Hooks:50 - Clicked user dropdown.
-2025-07-24 12:41:29 INFO  Hooks:53 - Navigated to My Tests.
-2025-07-24 12:41:33 INFO  Hooks:59 - Clicked Book Tests.
-2025-07-24 12:41:33 INFO  Hooks:62 - Fetched 8 TopCities.
-2025-07-24 12:41:33 INFO  Hooks:80 - Written TopCity to Excel: Bangalore
-2025-07-24 12:41:33 INFO  Hooks:80 - Written TopCity to Excel: Delhi
-2025-07-24 12:41:33 INFO  Hooks:80 - Written TopCity to Excel: Mumbai
-2025-07-24 12:41:34 INFO  Hooks:80 - Written TopCity to Excel: Chennai
-2025-07-24 12:41:34 INFO  Hooks:80 - Written TopCity to Excel: Hyderabad
-2025-07-24 12:41:34 INFO  Hooks:80 - Written TopCity to Excel: Kolkata
-2025-07-24 12:41:34 INFO  Hooks:80 - Written TopCity to Excel: Pune
-2025-07-24 12:41:34 INFO  Hooks:80 - Written TopCity to Excel: Ahmedabad
-2025-07-24 12:41:34 INFO  Hooks:85 - All TopCities written to Excel successfully.
-2025-07-24 12:41:37 WARN  Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-07-30 09:27:27 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 09:27:27 INFO  Hooks:33 - Loading hospital search data from Excel sheet: TC001
+2025-07-30 09:27:27 INFO  Hooks:41 - Loaded Data -> City: Bangalore, SearchPlace: Hospital, OpenTime: Open 24x7, Rating: 4.0
+2025-07-30 09:27:27 INFO  Hooks:47 - Entering City into Search: Bangalore
+2025-07-30 09:27:33 INFO  Hooks:53 - Entering SearchPlace into Search field: Hospital
+2025-07-30 09:27:48 INFO  Hooks:59 - Retrieving total number of hospital search results
+2025-07-30 09:27:48 INFO  Hooks:65 - Filtering hospital names based on OpenTime: Open 24x7 and Rating >= 4.0
+2025-07-30 09:27:49 INFO  Hooks:71 - Writing filtered hospital names to Excel sheet: TC001_Output
+2025-07-30 09:27:49 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)
+2025-07-30 09:27:49 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospitals
+2025-07-30 09:27:49 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 09:27:50 INFO  Hooks:76 - Writing Hospital Name to Excel: Koshys Hospital
+2025-07-30 09:27:50 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Spectra Hospitals
+2025-07-30 09:27:50 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 09:27:50 INFO  Hooks:76 - Writing Hospital Name to Excel: Trilife Hospital
+2025-07-30 09:27:50 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Cradle & Children’s Hospital
+2025-07-30 09:27:50 INFO  Hooks:81 - Finished writing all hospital names to Excel
+2025-07-30 09:28:05 INFO  Hooks:22 - Navigating to application URL...
+2025-07-30 09:28:10 INFO  Hooks:24 - User is on the home page.
+2025-07-30 09:28:10 INFO  Hooks:34 - Total rows in sheet 'TC002': 1
+2025-07-30 09:28:10 INFO  Hooks:40 - Searching for doctors in location: 'Bangalore' with type: 'Dermatologist'
+2025-07-30 09:28:18 ERROR Hooks:46 - Error while reading Excel or performing search
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b02476aaf06367cff0b41618a6437c7f, findElement {value=//input[@placeholder='Search location'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2403728\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65033}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65033/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b02476aaf06367cff0b41618a6437c7f
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy41.clear(Unknown Source) ~[?:?]
+	at pageObjects.FindDoctorsPage.selectLocation(FindDoctorsPage.java:22) ~[test-classes/:?]
+	at stepDefinitions.TC002_NearbyDoctorsSteps.performDoctorSearch(TC002_NearbyDoctorsSteps.java:78) ~[test-classes/:?]
+	at stepDefinitions.TC002_NearbyDoctorsSteps.user_searches_for_doctors_using_data_from_sheet(TC002_NearbyDoctorsSteps.java:42) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:86) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-07-30 09:28:24 INFO  Hooks:16 - ****Clicking Instant Video Consultation*****
+2025-07-30 09:28:30 INFO  Hooks:19 - ******Starting Login Authentication Test Case*******
+2025-07-30 09:28:30 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:28:30 ERROR Hooks:55 - Test Failed
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3d4823800e7195378e44d655ac2e0f95, findElement {value=//a[normalize-space()='Login / Signup'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2403728\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65364}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65364/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d4823800e7195378e44d655ac2e0f95
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy41.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickLogin(HomePage.java:80) ~[test-classes/:?]
+	at stepDefinitions.TC004_LoginSteps.user_performs_login_authentication_using_excel_data(TC004_LoginSteps.java:32) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:86) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-07-30 09:28:35 INFO  Hooks:26 - Launching Home Page
+2025-07-30 09:28:35 INFO  Hooks:33 - Reading search term from Excel sheet: TC005
+2025-07-30 09:28:36 INFO  Hooks:37 - Loaded search term: mental heath
+2025-07-30 09:28:41 INFO  Hooks:16 - Scrolling to footer section
+2025-07-30 09:28:47 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 09:28:47 INFO  Hooks:26 - Clicking 'For Corporates' link
+2025-07-30 09:28:53 INFO  Hooks:27 - Starting login process...
+2025-07-30 09:28:53 ERROR Hooks:40 - Login failed
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [89c639a023afd24a08363aefec95c945, findElement {value=//a[normalize-space()='Login / Signup'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2403728\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49360}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49360/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 89c639a023afd24a08363aefec95c945
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy41.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickLogin(HomePage.java:80) ~[test-classes/:?]
+	at stepDefinitions.TC008_TopCitiesSteps.user_logs_into_the_application_with_valid_credentials(TC008_TopCitiesSteps.java:29) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:86) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-07-30 09:29:00 INFO  Hooks:22 - Navigating to application URL...
+2025-07-30 09:29:11 INFO  Hooks:19 - ******Starting Login Authentication Test Case*******
+2025-07-30 09:29:12 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:29:12 ERROR Hooks:55 - Test Failed
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df7bca56fc08f6e07599dc3a19b9f7f0, findElement {value=//a[normalize-space()='Login / Signup'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2403728\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49953}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49953/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: df7bca56fc08f6e07599dc3a19b9f7f0
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy41.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickLogin(HomePage.java:80) ~[test-classes/:?]
+	at stepDefinitions.TC004_LoginSteps.user_performs_login_authentication_using_excel_data(TC004_LoginSteps.java:32) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:86) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-07-30 09:29:23 INFO  Hooks:16 - Scrolling to footer section
+2025-07-30 09:29:33 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 09:29:33 INFO  Hooks:26 - Clicking 'For Corporates' link
+2025-07-30 09:29:38 INFO  Hooks:27 - Starting login process...
+2025-07-30 09:29:38 ERROR Hooks:40 - Login failed
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a04b6b831d3d3084ab0fbf5a5e347675, findElement {value=//a[normalize-space()='Login / Signup'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2403728\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50351}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50351/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a04b6b831d3d3084ab0fbf5a5e347675
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy41.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickLogin(HomePage.java:80) ~[test-classes/:?]
+	at stepDefinitions.TC008_TopCitiesSteps.user_logs_into_the_application_with_valid_credentials(TC008_TopCitiesSteps.java:29) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:86) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.24.0.jar:7.24.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.18.0.jar:7.18.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-07-30 09:31:08 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 09:31:08 INFO  Hooks:33 - Loading hospital search data from Excel sheet: TC001
+2025-07-30 09:31:09 INFO  Hooks:41 - Loaded Data -> City: Bangalore, SearchPlace: Hospital, OpenTime: Open 24x7, Rating: 4.0
+2025-07-30 09:31:09 INFO  Hooks:47 - Entering City into Search: Bangalore
+2025-07-30 09:31:15 INFO  Hooks:53 - Entering SearchPlace into Search field: Hospital
+2025-07-30 09:31:32 INFO  Hooks:59 - Retrieving total number of hospital search results
+2025-07-30 09:31:32 INFO  Hooks:65 - Filtering hospital names based on OpenTime: Open 24x7 and Rating >= 4.0
+2025-07-30 09:31:33 INFO  Hooks:71 - Writing filtered hospital names to Excel sheet: TC001_Output
+2025-07-30 09:31:33 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)
+2025-07-30 09:31:33 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospitals
+2025-07-30 09:31:33 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 09:31:33 INFO  Hooks:76 - Writing Hospital Name to Excel: Koshys Hospital
+2025-07-30 09:31:33 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Spectra Hospitals
+2025-07-30 09:31:34 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 09:31:34 INFO  Hooks:76 - Writing Hospital Name to Excel: Trilife Hospital
+2025-07-30 09:31:34 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Cradle & Children’s Hospital
+2025-07-30 09:31:34 INFO  Hooks:81 - Finished writing all hospital names to Excel
+2025-07-30 09:31:47 INFO  Hooks:22 - Navigating to application URL...
+2025-07-30 09:31:53 INFO  Hooks:24 - User is on the home page.
+2025-07-30 09:31:53 INFO  Hooks:34 - Total rows in sheet 'TC002': 1
+2025-07-30 09:31:53 INFO  Hooks:40 - Searching for doctors in location: 'Bangalore' with type: 'Dermatologist'
+2025-07-30 09:32:25 INFO  Hooks:87 - Doctors found: 10
+2025-07-30 09:32:25 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Ambresh Badad
+2025-07-30 09:32:25 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shashi Kumar M
+2025-07-30 09:32:25 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Vinay Nagaraj
+2025-07-30 09:32:25 INFO  Hooks:60 - Saved doctor name to Excel: Dr. M.Jeethan
+2025-07-30 09:32:26 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Kiran K C
+2025-07-30 09:32:26 INFO  Hooks:60 - Saved doctor name to Excel: Dr. J Prasad
+2025-07-30 09:32:26 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Revanth BN
+2025-07-30 09:32:26 INFO  Hooks:60 - Saved doctor name to Excel: Dr. S C Rajendran
+2025-07-30 09:32:26 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Chandrashekara Aithal
+2025-07-30 09:32:26 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shaik Mohammed Obeidullah
+2025-07-30 09:32:26 INFO  Hooks:64 - All doctor names saved to sheet 'TC002_Output'
+2025-07-30 09:32:40 INFO  Hooks:16 - ****Clicking Instant Video Consultation*****
+2025-07-30 09:32:41 INFO  Hooks:25 - ****Scrolling*****
+2025-07-30 09:32:45 INFO  Hooks:28 - ****passing and getting specialities with price*****
+2025-07-30 09:33:01 INFO  Hooks:19 - ******Starting Login Authentication Test Case*******
+2025-07-30 09:33:01 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:33:02 INFO  Hooks:34 - *****Entering username and password and clicking login******
+2025-07-30 09:33:06 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
+2025-07-30 09:33:06 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:33:07 INFO  Hooks:34 - *****Entering username and password and clicking login******
+2025-07-30 09:33:10 INFO  Hooks:43 - *****Checking if Profile Info is displayed after successful login******
+2025-07-30 09:33:10 INFO  Hooks:45 - *****Logging out******
+2025-07-30 09:33:11 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:33:12 INFO  Hooks:34 - *****Entering username and password and clicking login******
+2025-07-30 09:33:13 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
+2025-07-30 09:33:14 INFO  Hooks:60 - ****Finished Login Authentication TestCase*****
+2025-07-30 09:33:26 INFO  Hooks:26 - Launching Home Page
+2025-07-30 09:33:26 INFO  Hooks:33 - Reading search term from Excel sheet: TC005
+2025-07-30 09:33:26 INFO  Hooks:37 - Loaded search term: mental heath
+2025-07-30 09:33:27 INFO  Hooks:43 - Clicked on 'Read Articles' link
+2025-07-30 09:33:27 INFO  Hooks:55 - Switched to new window for article search
+2025-07-30 09:33:38 INFO  Hooks:61 - Performed search for: mental heath
+2025-07-30 09:33:38 INFO  Hooks:68 - Extracted 10 article titles and author pairs
+2025-07-30 09:33:39 INFO  Hooks:79 - Written to Excel: Mental Health | Dr.Surabhi Jain, Dietitian/Nutritionist
+2025-07-30 09:33:39 INFO  Hooks:79 - Written to Excel: 7 Simple Yet Effective Ways to Build Your Mental Strength | Ms.Seema Agarwal, Psychologist
+2025-07-30 09:33:39 INFO  Hooks:79 - Written to Excel: World Mental Health Day 2016 | Dr.Sonia Malhotra, Psychiatrist
+2025-07-30 09:33:39 INFO  Hooks:79 - Written to Excel: Importance of Mental health | Ms.Seema Agarwal, Psychologist
+2025-07-30 09:33:39 INFO  Hooks:79 - Written to Excel: Mental Disorders: Stigma or Something else? | Dr.D. S. Poonia, Psychiatrist
+2025-07-30 09:33:40 INFO  Hooks:79 - Written to Excel: Dealing with mental stress at the workplace | Dr.Ankita Mishra, Psychiatrist
+2025-07-30 09:33:40 INFO  Hooks:79 - Written to Excel: How to Deal With Depression/mental Illnesses? | Dr.Neelam Nath Bhatia, General Physician
+2025-07-30 09:33:40 INFO  Hooks:79 - Written to Excel: 5 Ways to Good Mental Health | Dr.Pankaj B Borade, Psychiatrist
+2025-07-30 09:33:40 INFO  Hooks:79 - Written to Excel: 10 Easy & Effective Ways to Improve Mental Health | Ms.Vijal Sejpal, Psychologist
+2025-07-30 09:33:40 INFO  Hooks:79 - Written to Excel: Essential Ways to Enhance Adolescent Mental Health | Dr.Ashima Srivastava(PhD), Psychologist
+2025-07-30 09:33:40 INFO  Hooks:82 - Data writing complete for TC005_Output
+2025-07-30 09:33:54 INFO  Hooks:16 - Scrolling to footer section
+2025-07-30 09:34:41 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 09:34:41 INFO  Hooks:26 - Clicking 'For Corporates' link
+2025-07-30 09:34:41 INFO  Hooks:32 - Clicking 'For Health and Wellness' link
+2025-07-30 09:34:46 INFO  Hooks:38 - Waiting for form to load...
+2025-07-30 09:34:48 INFO  Hooks:42 - Form loaded and ready
+2025-07-30 09:34:48 INFO  Hooks:48 - Filling form using XML data...
+2025-07-30 09:34:52 INFO  Hooks:50 - Entered Name
+2025-07-30 09:34:55 INFO  Hooks:53 - Entered Organization
+2025-07-30 09:34:58 INFO  Hooks:56 - Entered Contact
+2025-07-30 09:35:01 INFO  Hooks:59 - Entered Email
+2025-07-30 09:35:02 INFO  Hooks:62 - Selected Organization Size
+2025-07-30 09:35:02 INFO  Hooks:65 - Selected Interest
+2025-07-30 09:35:02 INFO  Hooks:70 - Submitting demo request
+2025-07-30 09:35:04 INFO  Hooks:76 - Verifying CAPTCHA screen is displayed
+2025-07-30 09:35:04 INFO  Hooks:83 - Capturing screenshot: CaptchaAfterSubmit
+2025-07-30 09:35:19 INFO  Hooks:27 - Starting login process...
+2025-07-30 09:35:30 INFO  Hooks:38 - Login successful.
+2025-07-30 09:35:31 INFO  Hooks:50 - Clicked user dropdown.
+2025-07-30 09:35:34 INFO  Hooks:53 - Navigated to My Tests.
+2025-07-30 09:35:39 INFO  Hooks:59 - Clicked Book Tests.
+2025-07-30 09:35:39 INFO  Hooks:62 - Fetched 8 TopCities.
+2025-07-30 09:35:39 INFO  Hooks:80 - Written TopCity to Excel: Bangalore
+2025-07-30 09:35:39 INFO  Hooks:80 - Written TopCity to Excel: Delhi
+2025-07-30 09:35:39 INFO  Hooks:80 - Written TopCity to Excel: Mumbai
+2025-07-30 09:35:39 INFO  Hooks:80 - Written TopCity to Excel: Chennai
+2025-07-30 09:35:39 INFO  Hooks:80 - Written TopCity to Excel: Hyderabad
+2025-07-30 09:35:40 INFO  Hooks:80 - Written TopCity to Excel: Kolkata
+2025-07-30 09:35:40 INFO  Hooks:80 - Written TopCity to Excel: Pune
+2025-07-30 09:35:40 INFO  Hooks:80 - Written TopCity to Excel: Ahmedabad
+2025-07-30 09:35:40 INFO  Hooks:85 - All TopCities written to Excel successfully.
+2025-07-30 09:35:43 WARN  Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-30 09:39:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\AppData\Local\Temp\testng-eclipse-1623494297\testng-customsuite.xml
+
+2025-07-30 09:39:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-30 09:40:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\eclipse-workspace\FindingHospitals\testRunner.xml
+
+2025-07-30 09:40:36 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 09:40:36 INFO  Hooks:33 - Loading hospital search data from Excel sheet: TC001
+2025-07-30 09:40:38 INFO  Hooks:41 - Loaded Data -> City: Bangalore, SearchPlace: Hospital, OpenTime: Open 24x7, Rating: 4.0
+2025-07-30 09:40:38 INFO  Hooks:47 - Entering City into Search: Bangalore
+2025-07-30 09:40:43 INFO  Hooks:53 - Entering SearchPlace into Search field: Hospital
+2025-07-30 09:40:53 INFO  Hooks:59 - Retrieving total number of hospital search results
+2025-07-30 09:40:53 INFO  Hooks:65 - Filtering hospital names based on OpenTime: Open 24x7 and Rating >= 4.0
+2025-07-30 09:40:53 INFO  Hooks:71 - Writing filtered hospital names to Excel sheet: TC001_Output
+2025-07-30 09:40:53 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)
+2025-07-30 09:40:54 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospitals
+2025-07-30 09:40:54 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 09:40:54 INFO  Hooks:76 - Writing Hospital Name to Excel: Koshys Hospital
+2025-07-30 09:40:54 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Spectra Hospitals
+2025-07-30 09:40:54 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 09:40:54 INFO  Hooks:76 - Writing Hospital Name to Excel: Trilife Hospital
+2025-07-30 09:40:54 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Cradle & Children’s Hospital
+2025-07-30 09:40:54 INFO  Hooks:81 - Finished writing all hospital names to Excel
+2025-07-30 09:41:08 INFO  Hooks:22 - Navigating to application URL...
+2025-07-30 09:41:14 INFO  Hooks:24 - User is on the home page.
+2025-07-30 09:41:14 INFO  Hooks:34 - Total rows in sheet 'TC002': 1
+2025-07-30 09:41:15 INFO  Hooks:40 - Searching for doctors in location: 'Bangalore' with type: 'Dermatologist'
+2025-07-30 09:41:47 INFO  Hooks:87 - Doctors found: 10
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Ambresh Badad
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shashi Kumar M
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Vinay Nagaraj
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. M.Jeethan
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Kiran K C
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. J Prasad
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Revanth BN
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. S C Rajendran
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Chandrashekara Aithal
+2025-07-30 09:41:47 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shaik Mohammed Obeidullah
+2025-07-30 09:41:47 INFO  Hooks:64 - All doctor names saved to sheet 'TC002_Output'
+2025-07-30 09:42:01 INFO  Hooks:16 - ****Clicking Instant Video Consultation*****
+2025-07-30 09:42:02 INFO  Hooks:25 - ****Scrolling*****
+2025-07-30 09:42:06 INFO  Hooks:28 - ****passing and getting specialities with price*****
+2025-07-30 09:42:22 INFO  Hooks:19 - ******Starting Login Authentication Test Case*******
+2025-07-30 09:42:22 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:42:23 INFO  Hooks:34 - *****Entering username and password and clicking login******
+2025-07-30 09:42:27 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
+2025-07-30 09:42:28 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:42:29 INFO  Hooks:34 - *****Entering username and password and clicking login******
+2025-07-30 09:42:31 INFO  Hooks:43 - *****Checking if Profile Info is displayed after successful login******
+2025-07-30 09:42:31 INFO  Hooks:45 - *****Logging out******
+2025-07-30 09:42:33 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 09:42:34 INFO  Hooks:34 - *****Entering username and password and clicking login******
+2025-07-30 09:42:34 INFO  Hooks:48 - *****Checking visibility of username error block upon unsuccessful login******
+2025-07-30 09:42:35 INFO  Hooks:60 - ****Finished Login Authentication TestCase*****
+2025-07-30 09:42:48 INFO  Hooks:26 - Launching Home Page
+2025-07-30 09:42:48 INFO  Hooks:33 - Reading search term from Excel sheet: TC005
+2025-07-30 09:42:48 INFO  Hooks:37 - Loaded search term: mental heath
+2025-07-30 09:42:48 INFO  Hooks:43 - Clicked on 'Read Articles' link
+2025-07-30 09:42:48 INFO  Hooks:55 - Switched to new window for article search
+2025-07-30 09:43:00 INFO  Hooks:61 - Performed search for: mental heath
+2025-07-30 09:43:00 INFO  Hooks:68 - Extracted 10 article titles and author pairs
+2025-07-30 09:43:00 INFO  Hooks:79 - Written to Excel: Mental Health | Dr.Surabhi Jain, Dietitian/Nutritionist
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: 7 Simple Yet Effective Ways to Build Your Mental Strength | Ms.Seema Agarwal, Psychologist
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: World Mental Health Day 2016 | Dr.Sonia Malhotra, Psychiatrist
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: Importance of Mental health | Ms.Seema Agarwal, Psychologist
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: Mental Disorders: Stigma or Something else? | Dr.D. S. Poonia, Psychiatrist
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: Dealing with mental stress at the workplace | Dr.Ankita Mishra, Psychiatrist
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: How to Deal With Depression/mental Illnesses? | Dr.Neelam Nath Bhatia, General Physician
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: 5 Ways to Good Mental Health | Dr.Pankaj B Borade, Psychiatrist
+2025-07-30 09:43:01 INFO  Hooks:79 - Written to Excel: 10 Easy & Effective Ways to Improve Mental Health | Ms.Vijal Sejpal, Psychologist
+2025-07-30 09:43:02 INFO  Hooks:79 - Written to Excel: Essential Ways to Enhance Adolescent Mental Health | Dr.Ashima Srivastava(PhD), Psychologist
+2025-07-30 09:43:02 INFO  Hooks:82 - Data writing complete for TC005_Output
+2025-07-30 09:43:15 INFO  Hooks:16 - Scrolling to footer section
+2025-07-30 09:44:00 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 09:44:00 INFO  Hooks:26 - Clicking 'For Corporates' link
+2025-07-30 09:44:01 INFO  Hooks:32 - Clicking 'For Health and Wellness' link
+2025-07-30 09:44:06 INFO  Hooks:38 - Waiting for form to load...
+2025-07-30 09:44:08 INFO  Hooks:42 - Form loaded and ready
+2025-07-30 09:44:08 INFO  Hooks:48 - Filling form using XML data...
+2025-07-30 09:44:11 INFO  Hooks:50 - Entered Name
+2025-07-30 09:44:14 INFO  Hooks:53 - Entered Organization
+2025-07-30 09:44:18 INFO  Hooks:56 - Entered Contact
+2025-07-30 09:44:21 INFO  Hooks:59 - Entered Email
+2025-07-30 09:44:21 INFO  Hooks:62 - Selected Organization Size
+2025-07-30 09:44:21 INFO  Hooks:65 - Selected Interest
+2025-07-30 09:44:21 INFO  Hooks:70 - Submitting demo request
+2025-07-30 09:44:23 INFO  Hooks:76 - Verifying CAPTCHA screen is displayed
+2025-07-30 09:44:23 INFO  Hooks:83 - Capturing screenshot: CaptchaAfterSubmit
+2025-07-30 09:44:39 INFO  Hooks:27 - Starting login process...
+2025-07-30 09:44:50 INFO  Hooks:38 - Login successful.
+2025-07-30 09:44:50 INFO  Hooks:50 - Clicked user dropdown.
+2025-07-30 09:44:53 INFO  Hooks:53 - Navigated to My Tests.
+2025-07-30 09:44:59 INFO  Hooks:59 - Clicked Book Tests.
+2025-07-30 09:44:59 INFO  Hooks:62 - Fetched 8 TopCities.
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Bangalore
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Delhi
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Mumbai
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Chennai
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Hyderabad
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Kolkata
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Pune
+2025-07-30 09:44:59 INFO  Hooks:80 - Written TopCity to Excel: Ahmedabad
+2025-07-30 09:44:59 INFO  Hooks:85 - All TopCities written to Excel successfully.
+2025-07-30 09:45:03 WARN  Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-07-30 12:22:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2403728\eclipse-workspace\FindingHospitals\testRunner.xml
+
+2025-07-30 12:23:00 INFO  Hooks:26 - Navigating to Home Page
+2025-07-30 12:23:00 INFO  Hooks:33 - Loading hospital search data from Excel sheet: TC001
+2025-07-30 12:23:01 INFO  Hooks:41 - Loaded Data -> City: Bangalore, SearchPlace: Hospital, OpenTime: Open 24x7, Rating: 4.0
+2025-07-30 12:23:01 INFO  Hooks:47 - Entering City into Search: Bangalore
+2025-07-30 12:23:07 INFO  Hooks:53 - Entering SearchPlace into Search field: Hospital
+2025-07-30 12:23:14 INFO  Hooks:59 - Retrieving total number of hospital search results
+2025-07-30 12:23:14 INFO  Hooks:65 - Filtering hospital names based on OpenTime: Open 24x7 and Rating >= 4.0
+2025-07-30 12:23:15 INFO  Hooks:71 - Writing filtered hospital names to Excel sheet: TC001_Output
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Manipal Hospitals
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Koshys Hospital
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Spectra Hospitals
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Motherhood Hospital
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Trilife Hospital
+2025-07-30 12:23:15 INFO  Hooks:76 - Writing Hospital Name to Excel: Apollo Cradle & Children’s Hospital
+2025-07-30 12:23:15 INFO  Hooks:81 - Finished writing all hospital names to Excel
+2025-07-30 12:23:29 INFO  Hooks:22 - Navigating to application URL...
+2025-07-30 12:23:34 INFO  Hooks:24 - User is on the home page.
+2025-07-30 12:23:34 INFO  Hooks:34 - Total rows in sheet 'TC002': 1
+2025-07-30 12:23:34 INFO  Hooks:40 - Searching for doctors in location: 'Bangalore' with type: 'Dermatologist'
+2025-07-30 12:24:04 INFO  Hooks:87 - Doctors found: 10
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Ambresh Badad
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shashi Kumar M
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Vinay Nagaraj
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. M.Jeethan
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Kiran K C
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. J Prasad
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Revanth BN
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. S C Rajendran
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Chandrashekara Aithal
+2025-07-30 12:24:04 INFO  Hooks:60 - Saved doctor name to Excel: Dr. Shaik Mohammed Obeidullah
+2025-07-30 12:24:04 INFO  Hooks:64 - All doctor names saved to sheet 'TC002_Output'
+2025-07-30 12:24:19 INFO  Hooks:16 - ****Clicking Instant Video Consultation*****
+2025-07-30 12:24:19 INFO  Hooks:25 - ****Scrolling*****
+2025-07-30 12:24:23 INFO  Hooks:28 - ****passing and getting specialities with price*****
+2025-07-30 12:24:38 INFO  Hooks:19 - ******Starting Login Authentication Test Case*******
+2025-07-30 12:24:38 INFO  Hooks:30 - *****Clicking Login on Home Page******
+2025-07-30 12:24:39 INFO  Hooks:34 - *****Entering username and password and clicking login******

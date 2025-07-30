@@ -151,7 +151,7 @@
 				<configuration>
 					<!-- Points to TestNG suite -->
 					<suiteXmlFiles>
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>testRunner.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

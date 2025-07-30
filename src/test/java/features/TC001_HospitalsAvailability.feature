@@ -1,5 +1,6 @@
 Feature: Verify hospital search functionality
 
+
   Scenario: Load hospital search data and retrieve matching hospital names
     Given User is on the Home Page
     And User loads hospital search data from Excel

@@ -8,14 +8,14 @@
       <class name="runners.FailedScenarioRunner"/>
     </classes>
   </test>
-  
- <test name="Cucumber test - Edge"> 
+   
+<!--  <test name="Cucumber test - Edge"> 
   <parameter name="browser" value="edge"/> 
      <classes>
       <class name="runners.TestRunner_TestNG"/>
       <class name="runners.FailedScenarioRunner"/> 
     </classes>
-   </test>
+   </test> -->
   
 </suite>
  
