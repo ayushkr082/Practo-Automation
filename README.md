@@ -82,15 +82,6 @@ The goal of this hackathon was to automate key user interactions on the **Policy
 
 ---
 
-## Contributors
-- Manisha  
-- Naitik  
-- Eskiha  
-- Ayush  
-- Tamana
-
----
-
 ## Outcome
 
 - Reduced manual effort with full functional coverage.
